@@ -46,7 +46,11 @@
             }
 
             .title {
-                font-size: 84px;
+                font-size: 90px;
+            }
+
+            .links {
+                font-size: 24px;
             }
 
             .links > a {
@@ -79,15 +83,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    LaraconPk
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    Building a Simple User Management System with Laravel
                 </div>
             </div>
         </div>
